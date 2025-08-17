@@ -1,5 +1,3 @@
-# This is a sample Python script.
-
-# Press Mayús+F10 to execute it or replace it with your code.
-
-# See PyCharm help at https://www.jetbrains.com/help/pycharm/
+print("Hola")
+print("Hola")
+print("Hola")
