@@ -1,3 +1,2 @@
 print("Hola")
-print("Hola")
-print("Hola")
+print(segundo)
